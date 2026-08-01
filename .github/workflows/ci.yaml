@@ -4,6 +4,6 @@ on:
 
 jobs:
   Explore-GitHub-Actions:
-    runs-on: ubuntu-latest
+    runs-on: arc-runner-set
     steps:
     - run: echo "🎉 This job uses ubuntu-latest!"
